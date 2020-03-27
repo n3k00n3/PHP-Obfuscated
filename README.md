@@ -1,2 +1,2 @@
 # PHP-Obfuscated
-This repository has some examples of non-alpha numeric codes.
+This repository has examples of Obfuscated malwares using PHP to use as backdoors!
